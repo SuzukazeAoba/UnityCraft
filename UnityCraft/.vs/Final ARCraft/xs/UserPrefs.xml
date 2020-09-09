@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C91A0702-287A-760C-220E-BE7628CE96ED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlockManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Vector3i.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Vector3Utils.cs" Line="21" Column="24" />
+      <File FileName="Assets/Scripts/Map.cs" Line="29" Column="39" />
+      <File FileName="Assets/Scripts/BlockInfo.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/MapTexture.cs" Line="17" Column="41" />
+      <File FileName="Assets/Scripts/BlockList.cs" Line="1" Column="1" />
+      <File FileName="Assets/ARScripts/CubeManager.cs" Line="28" Column="9" />
+      <File FileName="Assets/Scripts/Chunk.cs" Line="11" Column="39" />
+      <File FileName="Assets/Scripts/Terrain.cs" Line="32" Column="18" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BlockManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
